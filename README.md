@@ -1,2 +1,2 @@
-# hoges25.github.io
+# lukehogantech.github.io
 Homepage for portfolio
